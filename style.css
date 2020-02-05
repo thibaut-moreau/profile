@@ -33,6 +33,10 @@ li {
   font-family: 'Roboto', sans-serif;
 }
 
+hr {
+  margin: 40px;
+}
+
 p {
   font-family: 'Roboto', sans-serif;
 }
@@ -73,3 +77,13 @@ a.link {
   padding: 40px;
   margin: 40px;
 }
+
+
+/*
+- Responsiveness
+- Using Flex to align elements one next to each other
+- GitHub social link
+- Do a footer
+- Hover transition
+- Gifs
+- Emojis
